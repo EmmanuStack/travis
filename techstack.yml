@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/travis
-report_id: 6ce6e197133bc210792a7c4d391050aa
+report_id: 98c1c3d40f7345675b7cb4c4e955c9f8
 repo_type: Public
-timestamp: '2023-11-07T13:19:56+00:00'
+timestamp: '2023-11-07T17:59:17+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 3
+detected_tools_count: 4
 tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -14,7 +14,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -24,7 +24,17 @@ tools:
   hosted_saas: true
   category: Build, Test, Deploy
   sub_category: Continuous Integration
-  imageURL: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: travis.yml
+- name: Heroku
+  description: Build, deliver, monitor and scale web apps and APIs with a trail blazing
+    developer experience.
+  website_url: https://www.heroku.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
   detection_source: travis.yml
 - name: Twilio SendGrid
   description: Email Delivery. Simplified.
@@ -33,5 +43,5 @@ tools:
   hosted_saas: true
   category: Communications
   sub_category: Transactional Email
-  imageURL: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
   detection_source: travis.yml
