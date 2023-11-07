@@ -3,7 +3,6 @@
 ## Tech Stack
 EmmanuStack/travis is built on the following main stack:
 - [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- [Heroku](https://www.heroku.com) – Platform as a Service
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -13,7 +12,6 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 EmmanuStack/travis is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -24,7 +22,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/travis](https://github.com/EmmanuStack/travis)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|11/07/23<br/>Last commit date|
+|3<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|11/07/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -42,19 +40,6 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'>
   <br>
   <sub><a href="http://travis-ci.com/">Travis CI</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-</tr>
-</table>
-
-## <img src='https://img.stackshare.io/hosting.svg'/> Hosting (1)
-<table><tr>
-  <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'>
-  <br>
-  <sub><a href="https://www.heroku.com">Heroku</a></sub>
   <br>
   <sub></sub>
 </td>
