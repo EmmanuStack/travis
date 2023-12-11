@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/travis](https://github.com/EmmanuStack/travis)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|12/08/23 <br/>Report generated|
+|6<br/>Tools used|12/11/23 <br/>Report generated|
 |------|------|
 </div>
 
