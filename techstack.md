@@ -36,7 +36,8 @@ Full tech stack [here](/techstack.md)
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+## <img src=''/> Datab
+ases (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'>
@@ -70,9 +71,17 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/hosting.svg'/> Hosting (1)
+## Other (3)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2950/1200px-Google_Chrome_icon__September_2014_.svg.png' alt='Google Chrome'>
+  <br>
+  <sub><a href="http://www.google.com/chrome/">Google Chrome</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'>
   <br>
   <sub><a href="https://www.heroku.com">Heroku</a></sub>
@@ -80,28 +89,10 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-</tr>
-</table>
-
-## <img src='https://img.stackshare.io/saas.svg'/> Software as a Service (SaaS) (1)
-<table><tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'>
   <br>
   <sub><a href="http://sendgrid.com">Twilio SendGrid</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-</tr>
-</table>
-
-## Other (1)
-<table><tr>
-  <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2950/1200px-Google_Chrome_icon__September_2014_.svg.png' alt='Google Chrome'>
-  <br>
-  <sub><a href="http://www.google.com/chrome/">Google Chrome</a></sub>
   <br>
   <sub></sub>
 </td>
