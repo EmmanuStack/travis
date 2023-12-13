@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/travis
-report_id: a4a37588a321388162c489ba40f566f2
+report_id: 164a80199aa5b14781d532ba2af5f3f4
 repo_type: Public
-timestamp: '2023-12-13T11:56:02+00:00'
+timestamp: '2023-12-13T13:33:28+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -10,7 +10,7 @@ tools:
 - name: PostgreSQL
   description: A powerful, open source object-relational database system
   website_url: http://www.postgresql.org/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Data Stores
   sub_category: Databases
@@ -21,7 +21,7 @@ tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
@@ -32,33 +32,10 @@ tools:
     projects
   website_url: http://travis-ci.com/
   open_source: false
-  hosted_saas: true
+  hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
-  detection_source: travis.yml
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-11-07 11:40:41.000000000 Z
-- name: Heroku
-  description: Build, deliver, monitor and scale web apps and APIs with a trail blazing
-    developer experience.
-  website_url: https://www.heroku.com
-  open_source: false
-  hosted_saas: true
-  category: Application Hosting
-  sub_category: Platform as a Service
-  image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
-  detection_source: travis.yml
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-11-07 11:40:41.000000000 Z
-- name: Twilio SendGrid
-  description: Email Delivery. Simplified.
-  website_url: http://sendgrid.com
-  open_source: false
-  hosted_saas: true
-  category: Communications
-  sub_category: Transactional Email
-  image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
   detection_source: travis.yml
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-11-07 11:40:41.000000000 Z
@@ -70,6 +47,29 @@ tools:
   category: Back Office
   sub_category: Web Browser
   image_url: https://img.stackshare.io/service/2950/1200px-Google_Chrome_icon__September_2014_.svg.png
+  detection_source: travis.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-07 11:40:41.000000000 Z
+- name: Heroku
+  description: Build, deliver, monitor and scale web apps and APIs with a trail blazing
+    developer experience.
+  website_url: https://www.heroku.com
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source: travis.yml
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-11-07 11:40:41.000000000 Z
+- name: Twilio SendGrid
+  description: Email Delivery. Simplified.
+  website_url: http://sendgrid.com
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
   detection_source: travis.yml
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-11-07 11:40:41.000000000 Z
